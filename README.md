@@ -15,15 +15,7 @@ Unblocker accesses region-restricted content by URL.
 
 ## Deployed at:
 
-https://unblocker.vercel.app/
 
-## Meta
-
-Marise Hayashi – [Other projects](https://limitedeternity.github.io/)
-
-Distributed under the MIT license. See ``LICENSE`` for more information.
-
-[@limitedeternity](https://github.com/limitedeternity)
 
 ## Contributing
 
